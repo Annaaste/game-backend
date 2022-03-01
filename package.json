@@ -1,0 +1,27 @@
+{
+  "name": "game-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Annaaste/game-backend.git"
+  },
+  "author": "Anna Karlsson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Annaaste/game-backend/issues"
+  },
+  "homepage": "https://github.com/Annaaste/game-backend#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "healthcheck": "^0.1.3"
+  },
+  "engines": {
+    "node": "17.x"  
+  }
+}
